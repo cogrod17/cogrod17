@@ -1,7 +1,4 @@
 - What's up, I’m Cole Ogrodnick from Colorado, USA.
--  I’m interested in Martial Arts and programming.
--  I’m looking to collaborate on anything that can help me learn to write better code and improve my skillz!
--  Looking for any and all feedback! 
 -  Email:  cogrod17@gmail.com
 
 <!---
