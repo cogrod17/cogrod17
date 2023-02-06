@@ -1,5 +1,5 @@
-- What's up, I’m Cole Ogrodnick from Colorado, USA.
 -  Email:  cogrod17@gmail.com
+-  Portfolio: https://cogrodnick.vercel.app/
 
 <!---
 cogrod17/cogrod17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
